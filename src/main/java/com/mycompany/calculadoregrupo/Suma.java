@@ -10,7 +10,7 @@ package com.mycompany.calculadoregrupo;
  */
 public class Suma {
     
-    public int suma(int a, int b){
+    public static int suma(int a, int b){
         return a+b;
     }
 }

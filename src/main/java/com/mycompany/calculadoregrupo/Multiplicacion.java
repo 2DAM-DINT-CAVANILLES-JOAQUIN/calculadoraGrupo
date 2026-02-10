@@ -9,7 +9,7 @@ package com.mycompany.calculadoregrupo;
  * @author illia
  */
 public class Multiplicacion {
-    public int multiplicar (int a, int b){
+    public static int multiplicar (int a, int b){
         return a*b;
     }
 }
