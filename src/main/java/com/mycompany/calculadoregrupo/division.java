@@ -9,7 +9,7 @@ package com.mycompany.calculadoregrupo;
  * @author USUARIO
  */
 public class division {
-    public int division(int a , int b){
+    public static int division(int a , int b){
         return a/b;
     }
 }
