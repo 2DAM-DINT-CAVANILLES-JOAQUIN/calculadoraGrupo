@@ -8,9 +8,8 @@ package com.mycompany.calculadoregrupo;
  *
  * @author USUARIO
  */
-public class Suma {
-    
-    public static int suma(int a, int b){
-        return a+b;
+public class division {
+    public static int division(int a , int b){
+        return a/b;
     }
 }
